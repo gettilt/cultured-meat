@@ -1,0 +1,161 @@
+{
+    "ADM": {
+        "chat_gpt": "Archer-Daniels-Midland provides essential ingredients and bioproducts for cultured meat production.",
+        "claude": "Archer-Daniels-Midland, a global food processing company, could provide ingredients and expertise for cultured meat production.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-staples/agriculture-stocks/",
+                "title": "8 Best Agriculture Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AMZN": {
+        "chat_gpt": "Amazon's Whole Foods Market could be a major distributor of cultured meat products.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "BYND": {
+        "chat_gpt": "Beyond Meat is a leader in plant-based meat alternatives and is investing in cultured meat technology.",
+        "claude": "Beyond Meat is a leading plant-based meat alternative company that could potentially expand into cultured meat products.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "DOW": {
+        "chat_gpt": "Dow Inc. supplies biochemicals and materials that can be used in the production of cultured meat.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "KHC": {
+        "chat_gpt": "Kraft Heinz is exploring alternative proteins and could incorporate cultured meat into its product lines.",
+        "claude": "Kraft Heinz, a major food and beverage company, could invest in cultured meat to stay ahead of changing consumer preferences.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MMM": {
+        "chat_gpt": "3M provides essential materials and technologies for 3D printing, crucial for shaping cultured meat.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "MSFT": {
+        "chat_gpt": "Microsoft's cloud computing and AI capabilities support biotech research and development, including cultured meat.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "NDAQ": {
+        "chat_gpt": "NASDAQ-listed companies are often at the forefront of biotech and food tech innovations, including cultured meat.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "TSN": {
+        "chat_gpt": "Tyson Foods has invested in cultured meat startups and is exploring alternative protein sources.",
+        "claude": "Tyson Foods, a major meat processor, has already invested in cultured meat startups and could further expand its presence.",
+        "search_articles": [
+            {
+                "url": "https://labgrownmeat.com/top-10-stocks/",
+                "title": "Top 10 Stocks to Invest in Lab-Grown Meat - 2024 Update",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.securities.io/lab-grown-meat-companies/",
+                "title": "Top 5 Lab-Grown Meat Stocks to Invest In (May 2024)",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-staples/agriculture-stocks/",
+                "title": "8 Best Agriculture Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BG": {
+        "chat_gpt": null,
+        "claude": "Bunge Limited, an agribusiness and food company, could supply plant-based oils and proteins for cultured meat production.",
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-staples/agriculture-stocks/",
+                "title": "8 Best Agriculture Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "FMC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-staples/agriculture-stocks/",
+                "title": "8 Best Agriculture Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SMG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/consumer-staples/agriculture-stocks/",
+                "title": "8 Best Agriculture Stocks to Buy in 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "HAIN": {
+        "chat_gpt": null,
+        "claude": "Hain Celestial, a leading organic and natural products company, could venture into the cultured meat space to expand its offerings.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "HRL": {
+        "chat_gpt": null,
+        "claude": "Hormel Foods, known for its meat products, could diversify its portfolio by investing in cultured meat technologies.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "INGR": {
+        "chat_gpt": null,
+        "claude": "Ingredion is a global ingredient solutions provider that could supply key components for cultured meat growth media.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SMPL": {
+        "chat_gpt": null,
+        "claude": "The Simply Good Foods Company, known for its protein-rich snacks, could explore cultured meat as a new protein source.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "STKL": {
+        "chat_gpt": null,
+        "claude": "SunOpta is a plant-based food and beverage company that could leverage its expertise to enter the cultured meat market.",
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    }
+}
